@@ -23,12 +23,11 @@
 
 
 📫 How to reach me:<br/>
-  Mail me at "onosaito0614@gmail.com" <br/>
   Or by Skype <a href="https://join.skype.com/invite/r2gUVghlnXMc">live:.cid.b7a7092abd562fa0</a>
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 <!-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog -->
-<img src="https://github.com/Ono-Saito/my-prof/blob/main/computing%5B00_00_01--00_00_21%5D.gif" alt="Animated GIF">
+<img src="https://github.com/Halle-Group/my-prof/blob/main/computing%5B00_00_01--00_00_21%5D.gif" alt="Animated GIF">
 
 <!-- <h3>Connect with me:</h3>
 <p>
@@ -77,8 +76,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/ono_dev/codeIgniter-logo.png" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/main/Untitled.png" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://codeigniter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Max-Dev/my-prof/blob/ono_dev/codeIgniter-logo.png" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Max-Dev/my-prof/blob/main/Untitled.png" alt="bash" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
@@ -90,8 +89,8 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://jitsi.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/main/apple-touch-icon.png" alt="xd" width="40" height="40"/> </a>
-  <a href="https://rakurakuhanbai.jp" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/main/image.png" alt="xd" width="40" height="40"/> </a>
+  <a href="https://jitsi.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Max-Dev/my-prof/blob/main/apple-touch-icon.png" alt="xd" width="40" height="40"/> </a>
+  <a href="https://rakurakuhanbai.jp" target="_blank" rel="noreferrer"> <img src="https://github.com/Max-Dev/my-prof/blob/main/image.png" alt="xd" width="40" height="40"/> </a>
   
 <!-- # 📊GitHub Stats : -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
