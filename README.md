@@ -23,7 +23,9 @@
 
 
 📫 How to reach me:<br/>
-  Or by Skype <a href="https://join.skype.com/invite/r2gUVghlnXMc">live:.cid.b7a7092abd562fa0</a>
+  by Skype <a href="https://join.skype.com/invite/r2gUVghlnXMc">live:.cid.b7a7092abd562fa0</a>
+  or by Chatwork <a href="https://www.chatwork.com/1a9xeummltfxs">Max-Dev</a>
+  or by Line <a href="https://lin.ee/rqmujbe">@901hoaro</a>
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 <!-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog -->
