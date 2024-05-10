@@ -13,8 +13,6 @@
 <div align="center">
 
 
- 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
-  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -55,8 +53,7 @@
 📫 How to reach me:<br/>
   by Skype <a href="https://join.skype.com/invite/rvN4cSmdRQSe">live:.cid.6b0806757e28bb6c</a><br>
   or by email <a >maxdev1990@gmail.com</a>
-  <!--or by Chatwork <a href="https://www.chatwork.com/1a9xeummltfxs">Max-Dev</a><br> -->
-  <!--or by Line <a href="https://lin.ee/rqmujbe">@901hoaro</a><br> -->
+  <!--or by Chatwork <a href="https://www.chatwork.com/1a9xeummltfxs">Max-Ray</a><br> -->
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 
