@@ -49,9 +49,9 @@
   <h4 align="center">If you have trouble with these kind of projects, please feel free to ✍️ me.</h4>
 <!-- ### 📕 Latest Blog Posts -->
 
-📫 How to reach me:<br/>
-  by Skype <a href="https://join.skype.com/invite/rvN4cSmdRQSe">live:.cid.6b0806757e28bb6c</a><br>
-  or by email <a >maxdev1990@gmail.com</a>
+<!-- 📫 How to reach me:<br/> -->
+ <!-- by Skype <a href="https://join.skype.com/invite/rvN4cSmdRQSe">live:.cid.6b0806757e28bb6c</a><br> -->
+ <!-- or by email <a >maxdev1990@gmail.com</a> -->
   <!--or by Chatwork <a href="https://www.chatwork.com/1a9xeummltfxs">Max-Ray</a><br> -->
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
