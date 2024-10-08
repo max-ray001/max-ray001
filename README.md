@@ -30,7 +30,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>           <br/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-  <a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/max-dev001/my-prof/blob/main/Untitled.png" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/max-ray001/max-ray001/blob/main/Untitled.png" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
@@ -39,8 +39,8 @@
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://jitsi.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/max-dev001/my-prof/blob/main/apple-touch-icon.png" alt="xd" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/max-dev001/my-prof/blob/main/aspnetcore.png" alt="xd" width="40" height="40"/> </a>
+  <a href="https://jitsi.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/max-ray001/max-ray001/blob/main/apple-touch-icon.png" alt="xd" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/max-ray001/max-ray001/blob/main/aspnetcore.png" alt="xd" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter" width="40" height="40"/> </a> 
   
 
